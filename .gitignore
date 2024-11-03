@@ -37,25 +37,3 @@ HistDailyData*
 
 
 
-git rm --cached -r \
-'Data' \
-'Delta.xlsx' \
-'Delta_RCP45.xlsx' \
-'Delta_RCP85.xlsx' \
-'Delta_SSP245.xlsx' \
-'LR Test RCP45.xlsx' \
-'LR Test RCP85.xlsx' \
-'LR Test SSP245.xlsx' \
-'LR Test SSP585.xlsx' \
-'model RCP45.csv' \
-'model RCP85.csv' \
-'model SSP245.csv' \
-'model SSP585.csv' \
-'RCP_IDF.xlsx' \
-'RCP_IDF1.xlsx' \
-'RCP_IDF_new.xlsx' \
-'RCP85_IDF_new.xlsx' \
-'SSP245_IDF_new.xlsx' \
-'SSP245_IDF_new2.xlsx' \
-'SSP585_IDF_new.xlsx' \
-'SSP585_IDF_new2.xlsx'
